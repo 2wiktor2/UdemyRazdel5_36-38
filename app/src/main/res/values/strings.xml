@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">UdemyRazdel5</string>
     <string name="b_send">Отправить</string>
-    <string name="hint_enter_message">Введите текст</string>
+    <string name="b_send2">Отправить через другие приложения</string>
+    <string name="b_send3">Отправить через свое окно выбора приложения</string>
+    <string name="hint_enter_subject">Тема сообщения</string>
+    <string name="hint_enter_message">Текст сообщения</string>
+    <string name="chooser_title">Заголовок окна выбора приложения</string>
 </resources>
